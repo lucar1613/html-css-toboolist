@@ -1,0 +1,108 @@
+ 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+
+body{
+    background-color:gray;
+     margin-left: 300px;
+     margin-right: 300px;
+     font-size: rem;
+     
+}
+
+header{
+    background-color: white ;
+}
+
+    
+
+
+
+
+
+ .p1{
+    padding-left: 55px;
+    align-content: center;
+    padding-top: 5px;
+    text-decoration: black;
+    padding-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    background-position: 100px white;
+  }
+  
+.block{
+    height: 900px;
+    width: 900px;
+    background-color: white;
+    padding-left: 50px;
+}
+
+
+
+    
+
+.box{
+    height:50px;
+    width: 50px;
+    background: white;
+    background-image: url(file:///C:/Users/Antonio/Desktop/img-toboolist/img/Logo.png);
+    margin-right: 50px;
+}
+
+
+
+.bg-blue{
+    background-color: #45abea;
+    color: white;
+}
+.font-white{
+    color: white;
+}
+
+}
+
+
+button{
+    border: solid transparent 1px ;
+    ;
+
+}
+
+li{
+    margin-bottom: 1rem;
+}
+.circle{
+    border: 1px solid transparent;
+    height: 1.05rem;
+    width: 1.05rem;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    font-size: 0.7rem;
+}
+.circle-green{
+    color: green;
+    border: 1px solid green;
+}
+.circle-red{
+    color: red;
+    border: 1px solid red;   
+}
+ul {
+    list-style-type: none; 
+    padding-left: 0;       
+    margin-left: 20px;        
+}
+main{
+    background-color: white;
+}
+
+
